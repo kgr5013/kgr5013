@@ -22,6 +22,9 @@
         <mxCell id="g7YDLFYQn1koHxjDutFm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g7YDLFYQn1koHxjDutFm-1" target="g7YDLFYQn1koHxjDutFm-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="g7YDLFYQn1koHxjDutFm-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g7YDLFYQn1koHxjDutFm-1" target="g7YDLFYQn1koHxjDutFm-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g7YDLFYQn1koHxjDutFm-1" value="Number 구조체 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="160" width="120" height="40" as="geometry" />
         </mxCell>
@@ -47,10 +50,19 @@
           <mxGeometry x="650" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g7YDLFYQn1koHxjDutFm-28" value="iostream 라이브러리" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="10" width="120" height="30" as="geometry" />
+          <mxGeometry x="530" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g7YDLFYQn1koHxjDutFm-29" value="fstream 라이브러리" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="545" y="35" width="110" height="30" as="geometry" />
+          <mxGeometry x="530" y="35" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g7YDLFYQn1koHxjDutFm-30" value="string 라이브러리" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="65" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g7YDLFYQn1koHxjDutFm-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="10" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g7YDLFYQn1koHxjDutFm-34" value="함수 생성" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="310" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
